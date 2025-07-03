@@ -30,7 +30,7 @@ img {
     width: 100%;
     max-width: 350px;
     border-radius: 180px;
-    margin: 0 0 0 35vw
+    margin:0 0 0 0;
 }
  ul {
     background-color: red;
