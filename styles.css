@@ -1,0 +1,39 @@
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #fff;
+  background-color: black;
+  width: 70%;
+  border: red solid 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.hobby {
+  background-color: rgb(21, 47, 117);
+  color: #fff;
+  border: red solid 3px;
+}
+
+img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 180px;
+    margin: 0 0 0 35vw
+}
+ ul {
+    background-color: red;
+    color: #fff;
+    border: rgb(21, 47, 117) solid 3px;
+ }
