@@ -27,10 +27,11 @@ h2 {
 }
 
 img {
-    width: 100%;
-    max-width: 350px;
-    border-radius: 180px;
-    margin:0 0 0 0;
+  display: flex;
+  max-width: 350px;
+  margin: 0 auto;
+  border-radius: 180px;
+  border: red solid 4px;
 }
  ul {
     background-color: red;
