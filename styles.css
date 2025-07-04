@@ -1,6 +1,12 @@
-body {
-  margin: 0px;
-  font-family: Arial, Helvetica, sans-serif;
+*,
+*::before,
+::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 main {
@@ -33,7 +39,7 @@ h1 {
 }
 
 .navbar li {
-  float: left;
+  float: center;
 }
 
 .info {
@@ -46,7 +52,7 @@ img {
   border-radius: 50px;
   width: 120px;
   margin: 0;
-  padding: 15px;;
+  padding: 15px;
 }
 
 #info {
@@ -55,7 +61,7 @@ img {
   bottom: 145px;
 }
 
-#infohobby{
+#infohobby {
   position: relative;
   bottom: 150px;
 }
